@@ -2,6 +2,7 @@
 
 A multifunctional period tracker that records menstrual cycles, provide medicine reminder and mental condition enlightenment.
 
+- [Web Demo](https://jiangyiqun.github.io/Sakura/)
 - [Pitching Slides](https://drive.google.com/open?id=18VuHNmz88jmQJ4G9e15A2G4cfrIMUkcL)
 
 ## Deployment
