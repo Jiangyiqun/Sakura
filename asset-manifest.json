@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sakura/static/css/main.b6d6fabc.chunk.css",
-    "main.js": "/Sakura/static/js/main.3846a53f.chunk.js",
-    "main.js.map": "/Sakura/static/js/main.3846a53f.chunk.js.map",
+    "main.js": "/Sakura/static/js/main.8d1831b8.chunk.js",
+    "main.js.map": "/Sakura/static/js/main.8d1831b8.chunk.js.map",
     "runtime~main.js": "/Sakura/static/js/runtime~main.e8923029.js",
     "runtime~main.js.map": "/Sakura/static/js/runtime~main.e8923029.js.map",
     "static/css/2.d8bfa7bc.chunk.css": "/Sakura/static/css/2.d8bfa7bc.chunk.css",
     "static/js/2.41be440a.chunk.js": "/Sakura/static/js/2.41be440a.chunk.js",
     "static/js/2.41be440a.chunk.js.map": "/Sakura/static/js/2.41be440a.chunk.js.map",
     "index.html": "/Sakura/index.html",
-    "precache-manifest.e4693bb1d497059d31772e1737f566ad.js": "/Sakura/precache-manifest.e4693bb1d497059d31772e1737f566ad.js",
+    "precache-manifest.b85836ba3b26405328d51d2cb6f99e04.js": "/Sakura/precache-manifest.b85836ba3b26405328d51d2cb6f99e04.js",
     "service-worker.js": "/Sakura/service-worker.js",
     "static/css/2.d8bfa7bc.chunk.css.map": "/Sakura/static/css/2.d8bfa7bc.chunk.css.map",
     "static/css/main.b6d6fabc.chunk.css.map": "/Sakura/static/css/main.b6d6fabc.chunk.css.map",
